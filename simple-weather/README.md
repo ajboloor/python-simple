@@ -27,5 +27,5 @@ The condition is Breezy
 The temperature is 0 C
 ```
 <p align="center">
-  <img src="/media/simple-weather_ss01.png">
+  <img src="/simple-weather/media/simple-weather_ss01.png">
 </p>
