@@ -4,11 +4,11 @@
 - Uses open CV and trained haarcascades to detect faces and eyes in the input image.
 
 ### Requirements:
-- numpy
+- numpy (http://www.numpy.org/)
 ```
 pip install numpy
 ```
-- openCV
+- openCV (http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html)
 ```
 sudo apt-get install build-essential cmake git pkg-config
 sudo apt-get install libjpeg8-dev libtiff4-dev libjasper-dev libpng12-dev
@@ -26,3 +26,4 @@ python simple-face_detection.py
 
 ### Note:
 - While copying the haarcascades from Github, click on Raw and then save it as a haarcascades file.
+- Not doing this will throw an error or try to use a haarcascade file located in a different directory.
