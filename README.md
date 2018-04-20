@@ -9,6 +9,9 @@ Modular python scripts (quick copy-paste) for a plethora of things like face det
 - Input and output
 - Basic math operators
 
+### simple-circuits
+- Building and displaying circuits
+
 ### simple-face_detection
 - Uses openCV and trained haarcascades to detect faces and eyes in the input image.
 
