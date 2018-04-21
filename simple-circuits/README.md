@@ -9,3 +9,6 @@
 - tkinter
 - matplotlib
 - SchemDraw (https://cdelker.bitbucket.io/SchemDraw/SchemDraw.html)
+```
+pip install SchedmDraw
+```
