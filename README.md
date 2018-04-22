@@ -3,6 +3,7 @@ Modular python scripts (quick copy-paste) for a plethora of things like face det
 
 ### Requirements:
 - Python 2.7 (https://www.python.org/download/releases/2.7/)
+- Python 3.4 (https://www.python.org/download/releases/3.4.0/)
 
 ### simple-helloworld
 - Simple print statements
@@ -20,4 +21,5 @@ Modular python scripts (quick copy-paste) for a plethora of things like face det
 - Plots forecast temperatures.
 
 ### Note: 
-- This repo may not be compatible with Python 3.4
+- Most of 'simple' codes will work with Python 2.7
+- If Python 3.4 is required, it will be mentioned in its respective README
