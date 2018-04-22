@@ -26,6 +26,4 @@ Weather in St. Louis, United States
 The condition is Breezy
 The temperature is 0 C
 ```
-<p align="center">
-  <img src="/simple-weather/media/simple-weather_ss01.png">
-</p>
+![Alt text](media/simple-weather_ss01.png?raw=true "St. Louis Weather")
