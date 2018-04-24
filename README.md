@@ -1,5 +1,5 @@
 # python-simple
-Modular python scripts (quick copy-paste) for a plethora of things like face detection, fetching weather, etc.
+Modular python scripts (quick copy-paste) for a plethora of things like face detection, generating circuits, fetching weather, etc.
 
 ### Requirements:
 - Python 2.7 (https://www.python.org/download/releases/2.7/)
