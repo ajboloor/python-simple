@@ -32,5 +32,4 @@ def get_weather(location_name):
     plt.ylabel("Temperature in Celsius")
     plt.show()
 
-
 get_weather('St. Louis')

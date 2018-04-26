@@ -76,9 +76,10 @@ analysis = simulator.operating_point()
 for node in analysis.nodes.values():
     dot_pos = pos_dict[int(str(node))]
     dot_pos = [dot_pos[0],dot_pos[1]]
-    l = str(round(float(node), 2)) + 'V'
-    d.add(e.DOT, label = l, xy = dot_pos)
-    print('Node {}: {:4.1f} V'.format(str(node), float(node))) # Fixme: format value + unit
+    if int(float(node)) != 0:
+        l = str(round(float(node), 2)) + 'V'
+        d.add(e.DOT, label = l, xy = dot_pos)
+        print('Node {}: {:4.1f} V'.format(str(node), float(node))) # Fixme: format value + unit
 
 d.draw()
 

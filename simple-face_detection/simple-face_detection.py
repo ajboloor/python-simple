@@ -4,7 +4,7 @@ def face_detection(path):
 
     face_cascade = cv.CascadeClassifier('haarcascades/haarcascade_frontalface_default.xml')
     eye_cascade = cv.CascadeClassifier('haarcascades/haarcascade_eye.xml')
-    # img = cv.imread('prince.jpg')
+    img = cv.imread(path)
     gray = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
     faces = face_cascade.detectMultiScale(gray, 1.3, 5)
 
