@@ -6,13 +6,17 @@ Modular python scripts (quick copy-paste) for a plethora of things like face det
 - Python 3.4 (https://www.python.org/download/releases/3.4.0/)
 - iPython or iPython3 (optional)
 
+### simple-check_internet
+- Checks internet availability
+- Useful for simple internet checks for web apps
+
+### simple-circuits
+- Building and displaying circuits
+
 ### simple-helloworld
 - Simple print statements
 - Input and output
 - Basic math operators
-
-### simple-circuits
-- Building and displaying circuits
 
 ### simple-face_detection
 - Uses openCV and trained haarcascades to detect faces and eyes in the input image.
