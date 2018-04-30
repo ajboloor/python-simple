@@ -13,7 +13,7 @@ pip install ipython
 ```
 sudo apt install ipython-notebook
 ```
-- plotly
+- plotly (https://plot.ly/d3-js-for-python-and-pandas-charts/)
 ```
 pip install plotly
 ```
