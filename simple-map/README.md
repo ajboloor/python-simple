@@ -5,8 +5,11 @@
 
 ### Requirements:
 - Python 2.7 (https://www.python.org/download/releases/2.7/)
-- ipython
-- ipython notebook
+- ipython (https://ipython.org/install.html)
+```
+pip install ipython
+```
+- ipython notebook (https://jupyter.org/install)
 ```
 sudo apt install ipython-notebook
 ```
@@ -19,4 +22,5 @@ pip install plotly
 ```
 ipython notebook simple-map.ipynb
 ```
+
 
