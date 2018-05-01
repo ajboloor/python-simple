@@ -25,6 +25,10 @@ Modular python scripts (quick copy-paste) for a plethora of things like face det
 - Fetches current weather of input location.
 - Plots forecast temperatures.
 
+### simple-web_parser
+- Uses BeautifulSoup to parse the web
+- Example involves acquiring Github user's daily commit numbers
+
 ### Note: 
 - Most of 'simple' codes will work with Python 2.7
 - If Python 3.4 is required, it will be mentioned in its respective README

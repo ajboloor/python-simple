@@ -5,7 +5,6 @@ def get_weather(location_name):
         import httplib
     except:
         import http.client as httplib
-
     conn = httplib.HTTPConnection("www.google.com", timeout=5)
     try:
         conn.request("HEAD", "/")
