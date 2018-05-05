@@ -2,6 +2,7 @@
 Modular python scripts (quick copy-paste) for a plethora of things like face detection, generating circuits, fetching weather, etc.
 
 ### Requirements:
+- Tested on Ubuntu 16.04 (optional)
 - Python 2.7 (https://www.python.org/download/releases/2.7/)
 - Python 3.4 (https://www.python.org/download/releases/3.4.0/)
 - iPython or iPython3 (optional)
