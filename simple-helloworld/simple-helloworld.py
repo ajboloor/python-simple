@@ -1,4 +1,6 @@
 def HelloWorld():
+    """Run simple python print and arithmetic commands"""
+
     print "HelloWorld!"
     print "\n"
 
@@ -15,5 +17,6 @@ def HelloWorld():
     print "a * b = " + str(a * b)
     print "a / b = " + str(float(a) / b)
     print "a ^ b = " + str(a ** b)
+
 
 HelloWorld()
